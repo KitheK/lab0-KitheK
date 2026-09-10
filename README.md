@@ -14,15 +14,15 @@ about making a container start.
 
 ### 1. GitHub Codespaces — nothing to install
 
-Open this repository on github.com, then **Code → Codespaces → Create codespace
-on main**. Wait a couple of minutes for the container to build the first time.
-You get VS Code in your browser with the whole toolchain ready.
+First, get your own copy of this repo. GitHub Classroom has been retired, so instead of accepting an assignment link:
 
-Works on Windows, macOS, Linux and Chromebooks. As a verified student you get
-180 Codespaces core-hours a month free through the
-[GitHub Student Developer Pack](https://education.github.com/pack) — a two-hour
-lab costs 8. **Stop your codespace when you finish**: it bills by wall-clock
-time, not by whether you are typing.
+Go to github.com/cosc407/lab0 and click the green "Use this template" button, then "Create a new repository."
+Name it something like lab0-<your-username>. Choose Private so your submission isn't visible to classmates.
+This creates your own separate copy — you now own it and can push to it freely. There is no ongoing link back to cosc407/lab0.
+
+Then open it in Codespaces. Open your new repository on github.com, then Code → Codespaces → Create codespace on main. Wait a couple of minutes for the container to build the first time. You get VS Code in your browser with the whole toolchain ready.
+
+Works on Windows, macOS and Chromebooks. As a verified student you get 180 Codespaces core-hours a month free with the Student Developer Pack. Stop your codespace when you finish — it bills by wall-clock time, not by whether you are typing.
 
 ### 2. Docker or Podman on your own laptop
 
