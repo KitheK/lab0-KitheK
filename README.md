@@ -17,7 +17,7 @@ about making a container start.
 First, get your own copy of this repo.
 
 Go to github.com/cosc407/lab0 and click the green "Use this template" button, then "Create a new repository."
-Name it something like lab0-<your-username>. Choose Private so your submission isn't visible to classmates.
+Name it something like lab0-\<your-username\>. Choose Private so your submission isn't visible to classmates.
 This creates your own separate copy — you now own it and can push to it freely. There is no ongoing link back to cosc407/lab0.
 
 Then open it in Codespaces. Open your new repository on github.com, then Code → Codespaces → Create codespace on main. Wait a couple of minutes for the container to build the first time. You get VS Code in your browser with the whole toolchain ready.
