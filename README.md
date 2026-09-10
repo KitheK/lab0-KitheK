@@ -14,7 +14,7 @@ about making a container start.
 
 ### 1. GitHub Codespaces — nothing to install
 
-First, get your own copy of this repo. GitHub Classroom has been retired, so instead of accepting an assignment link:
+First, get your own copy of this repo.
 
 Go to github.com/cosc407/lab0 and click the green "Use this template" button, then "Create a new repository."
 Name it something like lab0-<your-username>. Choose Private so your submission isn't visible to classmates.
