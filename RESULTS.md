@@ -1,21 +1,21 @@
 # Lab 0 results
 
-Name:  REPLACE THIS LINE
-Student number:  REPLACE THIS LINE
-Lab section:  REPLACE THIS LINE
+Name:  Kithe Kisia
+Student number:  31181217
+Lab section:  L03 Tuesday Morning
 
 ## Which environment did you use?
 
 Tick one, and say how many cores it reported:
 
-- [ ] GitHub Codespaces — cores: REPLACE THIS LINE
-- [ ] Docker or Podman on my own laptop — OS and cores: REPLACE THIS LINE
-- [ ] An SCI 234 lab machine — cores: REPLACE THIS LINE
-- [ ] Something else — describe it: REPLACE THIS LINE
+- [x] GitHub Codespaces — cores:
+- [ ] Docker or Podman on my own laptop — OS and cores
+- [ ] An SCI 234 lab machine — cores
+- [ ] Something else — describe it
 
 ## Tools and sources
 
-Tools and sources: REPLACE THIS LINE
+Tools and sources: Just did it off the dome 
 
 > Required on every lab. For Lab 0 you **may** use AI to help with installation
 > and setup problems — just say so here, e.g. "used Claude to work out why Docker
